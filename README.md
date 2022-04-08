@@ -1,5 +1,19 @@
 # Tezo Liquidity Pool Trading Bot
 
+To build/create a trading bot that will monitor the  transactions of 11 pair pools on quipuswap DEX for Tezos Blockchain and based on a series of trade conditions, bot will buy or sell from a tezos wallet relevant tokens in below corresponding pools. 
+Further to this , simulation tests around market parity for a particular token in a pool by continuous trading from one's own wallet in the same direction.
+
+### Tech Stack & Technology used
+- Node Js 
+- TypeScript(builds on JavaScript)
+- Tezos SDK
+- Quipu SDK
+- Blockchain data to be provided by GigaNode (paid)
+- JSON RPC
+- Blockchain explorer (BackDev)
+- Telegram API (for notifications)
+- Coingecko API
+
 Monitors transactions on tezo blockchain, buys/sells on Quipuswap DEX and sends telegram notifications of activities happening
 
 # Project setup
