@@ -43,3 +43,10 @@ Monitors transactions on tezo blockchain, buys/sells on Quipuswap DEX and sends 
 - ``npm restart`
 - Check the bot status by running
 - ``npm run status`
+
+
+DISCLAIMER: This is a demo codebase from our private repositories for the above project. Contact us for more information if you find this dApp of interest.
+
+Relevant Blockchains: [Tezos]
+
+dApp Completion date: [October 21, 2021]
